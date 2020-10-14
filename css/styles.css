@@ -4,9 +4,11 @@
 /*
 'Shadows Into Light', cursive
 */
-.ben{
+.kaka{
     text-align: center;
 }
+
+
 
 
 * {
@@ -26,7 +28,7 @@ body {
 }
 
 .nav{
-    float: right;
+    float: left;
     
 }
 
@@ -284,7 +286,7 @@ figure img {
 
 .navbar:not(.top-nav-collapse) {
     background: transparent !important;
-    padding: 0%;
+    padding: 1%;
 }
 
 /* Collapse nav end*/
@@ -297,7 +299,7 @@ figure img {
     body,
     header,
     .view {
-        height: 1000px;
+        height: 100px;
         overflow-x: hidden;
     }
 
