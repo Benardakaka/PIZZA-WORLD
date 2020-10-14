@@ -280,7 +280,12 @@ figure img {
 }
 
 .welcome {
-    padding-top: 30px;
+    padding-top: 70px;
+    background-image: url("/images/image.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  
 }
 
 .rads {

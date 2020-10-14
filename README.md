@@ -6,7 +6,7 @@
 A pizza ordering web application.
 
 ## Author:
-> BENARD AKAKA
+# BENARD AKAKA
 
 ## Screenshot:
 <img src="/images/Scrn shot.png" width="1000">
