@@ -9,10 +9,10 @@ A pizza ordering web application.
 > BENARD AKAKA
 
 ## Screenshot:
-<img src="images/shot.png" width="1000">
+<img src="/images/Scrn shot.png" width="1000">
 
 ## Setup:
-`git clone https://github.com/Benardakaka/PIZZA-WORLD.git` or download the zip file
+`git clone "https://github.com/Benardakaka/PIZZA-WORLD.git" or download the zip file
 
 Extract the zip file
 
