@@ -3,8 +3,8 @@ size = document.getElementById('#size').value;
 email = document.getElementById('#email').value;
 
 function subscribe() {
-    alert("Hello " + email +  "Thank for reaching out");
-    console.log(email);
+    alert("Hello " + name +  "Thank for reaching out");
+    console.log(name);
 }
 
 let validateInput = () => {
