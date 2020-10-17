@@ -112,6 +112,8 @@ figcaption {
     background-image: url("../images/sec/b1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .contact-overlay {
@@ -206,11 +208,13 @@ h4 {
     color: lawngreen;
 }
 
-.menu {
+ .menu {
     margin-top: 30px;
-    background-image: url("../images/sec/b4.jpg");
-    padding: 0;
-}
+    background-image: url("../images/back.jpeg");
+    padding: 0%;
+    margin-right: 20px;
+    margin-left: 20px;
+} 
 
 #menu {
     font-family: 'Love Ya Like A Sister', cursive;
